@@ -54,6 +54,7 @@ JSTQB試験AdvanceTM・TA試験学習<br>
 JSTQB試験Foundtional試験(受験済み)<br>
 
 ### < プログラミング関連 >
+・書籍<br>
 テスト駆動開発<br>
 テスト駆動Python<br>
 
