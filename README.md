@@ -5,18 +5,18 @@
 
 # 実務関連
 ## 担当PJ
-1.生産ライン管理機器のテスト(1ヶ月)<br>
-→単体・結合テストケース作成後、実施。<br>
-→ストレステスト・受け入れテスト<br>
-2.某電子書籍サービススマートフォンアプリテスト(5ヶ月)<br>
-3.クリエイター向け某WEBサービス(8ヶ月)<br>
-4.クリエイター向け某WEBサービスの一部、スマートフォンアプリ版(現在)<br>
-→システム、受け入れテスト(自社サービスのためリリース後のテスト)を実施。
+1.単体/結合テスト/ストレステスト/受け入れテスト<br>
+生産ライン管理機器のテスト(1ヶ月)<br><br>
+2.システム、受け入れテスト(自社サービスのためリリース後のテスト)<br>
+某電子書籍サービススマートフォンアプリテスト(5ヶ月)<br>
+クリエイター向け某WEBサービス(8ヶ月)<br>
+クリエイター向け某WEBサービスの一部、スマートフォンアプリ版(現在)<br>
+
 
 ## 経験したテスト活動工程
 計画 / 分析 / 設計 / 実装 / 実行 / 完了
 
-## テスト技法
+## 経験したテスト技法
 ・ブラックボックステスト(状態遷移図・表、デシジョンテーブル、同値・境界値分析)<br>
 ・経験ベーステスト（探索的テスト、Adhocテスト）<br>
 ・ストレステスト<br>
@@ -30,6 +30,7 @@ Slack / Zoom<br>
 ### < ソフトウェアテスト技術関連 >
 ・資格<br>
 (１０月受験予定のため学習中)JSTQB試験Foundtional試験<br>
+情報セキュリティマネジメント試験<br>
 <br>
 ・書籍<br>
 [ソフトウェアテスト教科書 JSTQB Foundation 第4版 シラバス2018対応 (著)大西 建児他](https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8-JSTQB-Foundation-%E7%AC%AC4%E7%89%88-%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C-ebook/dp/B07V29M2ZY/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=69YGFKU0OS4H&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8+JSTQB+Foundation+%E7%AC%AC4%E7%89%88+%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C%5D&qid=1661651146&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8+jstqb+foundation+%E7%AC%AC4%E7%89%88+%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C+%2Caps%2C193&sr=8-1)<br>
@@ -48,7 +49,8 @@ Slack / Zoom<br>
 [TPI NEXT ビジネス主導のテストプロセス改善（日本語版） (著)Alexander van Ewijk他](https://www.amazon.co.jp/TPI-NEXT%E2%93%87-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%94%B9%E5%96%84-%E7%BF%BB%E8%A8%B3%E8%80%85%EF%BC%9A%E8%96%AE%E7%94%B0%E5%92%8C%E5%A4%AB%E3%80%81%E6%B9%AF%E6%9C%AC%E5%89%9B%E3%80%81%E7%9A%86%E5%B7%9D%E7%BE%A9%E5%AD%9D/dp/490401930X/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=JX2VKGH4CGHL&keywords=TPI+NEXT+%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%94%B9%E5%96%84&qid=1661651311&sprefix=tpi+next+%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E6%94%B9%E5%96%84%2Caps%2C175&sr=8-1)<br>
 
 -マネジメント-<br>
-[More Effective Agile “ソフトウェアリーダー”になるための28の道標　(著)スティーブ マコネル](https://www.amazon.co.jp/Effective-Agile-%E2%80%9C%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E2%80%9D%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE28%E3%81%AE%E9%81%93%E6%A8%99-Steve-McConnell-ebook/dp/B089KFKB5H/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=More+Effective+Agile&qid=1661651577&s=digital-text&sr=1-1)<br>
+[More Effective Agile “ソフトウェアリーダー”になるための28の道標 (著)スティーブ マコネル](https://www.amazon.co.jp/Effective-Agile-%E2%80%9C%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E2%80%9D%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE28%E3%81%AE%E9%81%93%E6%A8%99-Steve-McConnell-ebook/dp/B089KFKB5H/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=More+Effective+Agile&qid=1661651577&s=digital-text&sr=1-1)<br>
+[失敗の科学　失敗から学習する組織、学習できない組織 (著)マシュー・サイド ](https://www.amazon.co.jp/gp/product/B01MU364ID/ref=kinw_myk_ro_title)<br>
 ※見積もりについて、理解できていないため、学習しております。<br>
 [ソフトウェア見積もり　人月の暗黙知を解き明かす　(著)スティーブ マコネル](https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%8A-%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99-%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96-%E3%83%9E%E3%82%B3%E3%83%8D%E3%83%AB-ebook/dp/B00KR96M6K/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=199035HEVDZQS&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%8A+%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99&qid=1661651450&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A+%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99%2Caps%2C172&sr=8-1)<br>
 [アジャイルな見積もりと計画づくり　（著)マイク・コーン](https://www.amazon.co.jp/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%AA%E8%A6%8B%E7%A9%8D%E3%82%8A%E3%81%A8%E8%A8%88%E7%94%BB%E3%81%A5%E3%81%8F%E3%82%8A-%EF%BD%9E%E4%BE%A1%E5%80%A4%E3%81%82%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E6%A6%82%E5%BF%B5%E3%81%A8%E6%8A%80%E6%B3%95%EF%BD%9E-Mike-Cohn-ebook/dp/B00IR1HYGW/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=199035HEVDZQS&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%8A+%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99&qid=1661651450&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A+%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99%2Caps%2C172&sr=8-2)<br>
