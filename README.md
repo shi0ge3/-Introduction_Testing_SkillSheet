@@ -12,7 +12,6 @@
 クリエイター向け某WEBサービス(8ヶ月)<br>
 クリエイター向け某WEBサービスの一部、スマートフォンアプリ版(現在)<br>
 
-
 ## 経験したテスト活動工程
 計画 / 分析 / 設計 / 実装 / 実行 / 完了
 
@@ -56,7 +55,18 @@ Slack / Zoom<br>
 [アジャイルな見積もりと計画づくり　（著)マイク・コーン](https://www.amazon.co.jp/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%81%AA%E8%A6%8B%E7%A9%8D%E3%82%8A%E3%81%A8%E8%A8%88%E7%94%BB%E3%81%A5%E3%81%8F%E3%82%8A-%EF%BD%9E%E4%BE%A1%E5%80%A4%E3%81%82%E3%82%8B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E6%A6%82%E5%BF%B5%E3%81%A8%E6%8A%80%E6%B3%95%EF%BD%9E-Mike-Cohn-ebook/dp/B00IR1HYGW/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=199035HEVDZQS&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%8A+%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99&qid=1661651450&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A+%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99%2Caps%2C172&sr=8-2)<br>
 [プロジェクトコスト見積もり入門　(著)岡村 正司](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B3%E3%82%B9%E3%83%88%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E5%85%A5%E9%96%80-%E5%B2%A1%E6%9D%91-%E6%AD%A3%E5%8F%B8/dp/4822283917/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=19LT7UA9VIH89&keywords=%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B3%E3%82%B9%E3%83%88%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E5%85%A5%E9%96%80&qid=1661651513&sprefix=%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B3%E3%82%B9%E3%83%88%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A%E5%85%A5%E9%96%80%2Caps%2C180&sr=8-1)<br>
 
-### < 数学 >
+### < 教養関連 >
+学習目的：T型スキルを持った、QAやTEを目指しており、開発関連の基礎知識を学んで、教養を深め多面的に考え行動できる様になることを目的としております。<br>
+※少ないですが開発経験があります。関連情報は[Introduction_Devlop_SkillSheet](https://github.com/shi0ge3/Introduction_Devlop_SkillSheet)にまとめております。ご興味があればご覧ください。<br>
+<br>
+-プログラミング関連-<br>
+・オンライン学習<br>
+[独学エンジニア](https://dokugaku-engineer.com/)<br>
+学習内容：PHP/MySql/Docker/Linux(ubuntu)/Git/AWSの学習を通してバックエンド関連を学習<br>
+[recursion](https://recursionist.io/)<br>
+学習内容：コンピュータサイエンス、プログラミング言語他<br>
+
+-数学-<br>
 ・書籍<br>
 [中学生からの数学「超」入門　起源をたどれば思考がわかる (著)永野裕之](https://www.amazon.co.jp/gp/product/B019IM8XGS/ref=ppx_yo_dt_b_d_asin_title_o07?ie=UTF8&psc=1)
 
