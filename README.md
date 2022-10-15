@@ -24,14 +24,14 @@
 JIRA Software(Confluence/Jira)<br>
 Slack / Zoom<br>
 
+## 資格
+JSTQB Foundtional Level<br>
+IPA ITパスポート<br>
+IPA 情報セキュリティマネジメント<br>
+
 # 学習関連
 ## 学習中
 ### < ソフトウェアテスト技術関連 >
-・資格<br>
-JSTQB試験 Foundtional Level<br>
-IPA ITパスポート<br>
-IPA 情報セキュリティマネジメント<br>
-<br>
 ・書籍<br>
 [ソフトウェアテスト教科書 JSTQB Foundation 第4版 シラバス2018対応 (著)大西 建児他](https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8-JSTQB-Foundation-%E7%AC%AC4%E7%89%88-%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C-ebook/dp/B07V29M2ZY/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=69YGFKU0OS4H&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8+JSTQB+Foundation+%E7%AC%AC4%E7%89%88+%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C%5D&qid=1661651146&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8+jstqb+foundation+%E7%AC%AC4%E7%89%88+%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C+%2Caps%2C193&sr=8-1)<br>
 [【この1冊でよくわかる】ソフトウェアテストの教科書　［増補改訂 第２版］　(著)布施 昌弘他](https://www.amazon.co.jp/%E3%80%90%E3%81%93%E3%81%AE1%E5%86%8A%E3%81%A7%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%91-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E5%A2%97%E8%A3%9C%E6%94%B9%E8%A8%82-%E7%AC%AC2%E7%89%88-%E5%B8%83%E6%96%BD/dp/481560875X/ref=pd_bxgy_sccl_2/356-0936770-1692622?pd_rd_w=sOuBU&content-id=amzn1.sym.918446e7-72f4-48c7-a672-af3b6ace2b19&pf_rd_p=918446e7-72f4-48c7-a672-af3b6ace2b19&pf_rd_r=Z74YT133GM75WN70AE28&pd_rd_wg=dHeyY&pd_rd_r=6be3cd73-b26f-411d-bd4d-c55f744c52fc&pd_rd_i=481560875X&psc=1)<br>
@@ -41,7 +41,7 @@ IPA 情報セキュリティマネジメント<br>
 ※時間はかかるが、チームメンバーに教育のため現在、2022/08~2023/07の1年間を準備期間としている。<br>
 [システムテスト自動化 標準ガイド(日本語版) (著マーク・フェウスター他)](https://www.amazon.co.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%86%E3%82%B9%E3%83%88%E8%87%AA%E5%8B%95%E5%8C%96-%E6%A8%99%E6%BA%96%E3%82%AC%E3%82%A4%E3%83%89-CodeZine-BOOKS-Fewster-ebook/dp/B00R48BEEW/ref=sr_1_1?qid=1661654822&refinements=p_27%3AMark+Fewster&s=digital-text&sr=1-1&text=Mark+Fewster)
 
-### < ソフトウェアテスト管理系 >
+### < ソフトウェアテスト管理関連 >
 ・書籍<br>
 -テスト-<br>
 [基本から学ぶテストプロセス管理 (著)レックス・ブラック](https://www.amazon.co.jp/%E5%9F%BA%E6%9C%AC%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%83%86%E3%82%B9%E3%83%88%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E7%AE%A1%E7%90%86%E2%80%95%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AE%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E6%88%90%E5%8A%9F%E3%81%95%E3%81%9B%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB-Rex-Black/dp/482228199X/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2DULGIKEFLLJB&keywords=%E5%9F%BA%E6%9C%AC%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%83%86%E3%82%B9%E3%83%88%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E7%AE%A1%E7%90%86&qid=1661651249&sprefix=%E5%9F%BA%E6%9C%AC%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6%E3%83%86%E3%82%B9%E3%83%88%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E7%AE%A1%E7%90%86%2Caps%2C204&sr=8-1)<br>
