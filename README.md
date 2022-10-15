@@ -28,7 +28,7 @@ Slack / Zoom<br>
 ## 学習中
 ### < ソフトウェアテスト技術関連 >
 ・資格<br>
-JSTQB試験 Foundtional<br>
+JSTQB試験 Foundtional　Level<br>
 IPA ITパスポート<br>
 IPA 情報セキュリティマネジメント<br>
 <br>
