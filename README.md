@@ -28,7 +28,7 @@ Slack / Zoom<br>
 ## 学習中
 ### < ソフトウェアテスト技術関連 >
 ・資格<br>
-(１０月受験予定のため学習中)JSTQB試験Foundtional試験<br>
+JSTQB試験Foundtional試験<br>
 情報セキュリティマネジメント試験<br>
 <br>
 ・書籍<br>
