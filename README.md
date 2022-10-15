@@ -28,8 +28,9 @@ Slack / Zoom<br>
 ## 学習中
 ### < ソフトウェアテスト技術関連 >
 ・資格<br>
-JSTQB試験Foundtional試験<br>
-情報セキュリティマネジメント試験<br>
+JSTQB試験 Foundtional<br>
+IPA ITパスポート<br>
+IPA 情報セキュリティマネジメント<br>
 <br>
 ・書籍<br>
 [ソフトウェアテスト教科書 JSTQB Foundation 第4版 シラバス2018対応 (著)大西 建児他](https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8-JSTQB-Foundation-%E7%AC%AC4%E7%89%88-%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C-ebook/dp/B07V29M2ZY/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=69YGFKU0OS4H&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8+JSTQB+Foundation+%E7%AC%AC4%E7%89%88+%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C%5D&qid=1661651146&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E6%95%99%E7%A7%91%E6%9B%B8+jstqb+foundation+%E7%AC%AC4%E7%89%88+%E3%82%B7%E3%83%A9%E3%83%90%E3%82%B92018%E5%AF%BE%E5%BF%9C+%2Caps%2C193&sr=8-1)<br>
