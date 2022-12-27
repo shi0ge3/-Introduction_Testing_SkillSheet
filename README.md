@@ -63,8 +63,6 @@ IPA 情報セキュリティマネジメント<br>
 <br>
 -プログラミング関連-<br>
 ・オンライン学習<br>
-[独学エンジニア](https://dokugaku-engineer.com/)<br>
-学習内容：PHP/MySql/Docker/Linux(ubuntu)/Git/AWSの学習を通してバックエンド関連を学習<br>
 [recursion](https://recursionist.io/)<br>
 学習内容：コンピュータサイエンス、プログラミング言語他<br>
 
