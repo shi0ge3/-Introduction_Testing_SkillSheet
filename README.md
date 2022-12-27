@@ -64,7 +64,7 @@ IPA 情報セキュリティマネジメント<br>
 -プログラミング関連-<br>
 ・オンライン学習<br>
 [recursion](https://recursionist.io/)<br>
-学習内容：コンピュータサイエンス、プログラミング言語他<br>
+学習内容：[コンピュータサイエンス、プログラミング言語他](https://recursionist.io/course)<br>
 
 -数学-<br>
 ・書籍<br>
