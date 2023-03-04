@@ -9,8 +9,8 @@
 生産ライン管理機器のテスト(1ヶ月)<br><br>
 2.システム、受け入れテスト(自社サービスのためリリース後のテスト)<br>
 某電子書籍サービススマートフォンアプリテスト(5ヶ月)<br>
-クリエイター向け某WEBサービス(8ヶ月)<br>
-クリエイター向け某WEBサービスの一部、スマートフォンアプリ版(現在)<br>
+クリエイター向け某WEBアプリケーション(8ヶ月)<br>
+クリエイター向け某スマートフォンアプリケーション(現在：11か月目)<br>
 
 ## 経験したテスト活動
 役割：リーダー / メンバー<br>
@@ -21,9 +21,9 @@
 ・経験ベーステスト（探索的テスト、Adhocテスト）<br>
 ・ストレステスト<br>
 
-## 使用ツール
-JIRA Software(Confluence/Jira)<br>
-Slack / Zoom<br>
+## 経験した検証環境&テストツール
+テストツール＝TestRail / Confluence / JIRA / Excel / MagicPod(E2E自動テストツール)<br>
+検証環境＝ Laptop(Windows10/macOS) / スマートフォン（Android/iOS)
 
 ## 資格
 JSTQB Foundtional Level<br>
