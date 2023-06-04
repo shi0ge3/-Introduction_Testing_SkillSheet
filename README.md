@@ -97,13 +97,16 @@ JSTQB テストアナリスト
 [ソフトウェア見積もり　人月の暗黙知を解き明かす　(著)スティーブ マコネル](https://www.amazon.co.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%8A-%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99-%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96-%E3%83%9E%E3%82%B3%E3%83%8D%E3%83%AB-ebook/dp/B00KR96M6K/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=199035HEVDZQS&keywords=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%8A+%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99&qid=1661651450&sprefix=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A+%E4%BA%BA%E6%9C%88%E3%81%AE%E6%9A%97%E9%BB%99%E7%9F%A5%E3%82%92%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99%2Caps%2C172&sr=8-1)<br>
 
 - その他<br>
-  - 使用教材：書籍<br>
+  - マネジメント関連
+    - 使用教材：書籍<br>
 [More Effective Agile “ソフトウェアリーダー”になるための28の道標 (著)スティーブ マコネル](https://www.amazon.co.jp/Effective-Agile-%E2%80%9C%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E2%80%9D%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE28%E3%81%AE%E9%81%93%E6%A8%99-Steve-McConnell-ebook/dp/B089KFKB5H/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=More+Effective+Agile&qid=1661651577&s=digital-text&sr=1-1)<br>
 [失敗の科学　失敗から学習する組織、学習できない組織 (著)マシュー・サイド ](https://www.amazon.co.jp/gp/product/B01MU364ID/ref=kinw_myk_ro_title)<br>
+    - 使用教材：Udemy(動画)<br>
+[アジャイル入門〜ゼロから学ぶアジャイルの基礎](https://www.udemy.com/course/agile-basics-japanese/)
 
-  - 使用教材：Udemy(動画)<br>
-[アジャイル入門〜ゼロから学ぶアジャイルの基礎](https://www.udemy.com/course/agile-basics-japanese/)<br>
-[Jiraの基礎〜初心者用のJiraガイド](https://www.udemy.com/course/jira-basic-course-japanese/)<br>
+  - テストツール関連
+    - 使用教材：Udemy(動画)<br>
+[Jiraの基礎〜初心者用のJiraガイド](https://www.udemy.com/course/jira-basic-course-japanese/)
 
 ### 教養関連
 - テスト以外関連
