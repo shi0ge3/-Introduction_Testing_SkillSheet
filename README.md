@@ -25,9 +25,9 @@
 - テストツール＝TestRail / Confluence / JIRA / Excel / MagicPod(E2E自動テストツール)
 - 検証環境＝ Laptop(Windows10/macOS) / スマートフォン（Android/iOS)
 
-## 資格
-- JSTQB Foundtional Level
-- IPA ITパスポート / 情報セキュリティマネジメント
+## テスト資格
+- JSTQB認定テスト技術者資格 Foundtional Level
+- JSTQB認定テスト技術者資格 Advanced Level テストアナリスト
 
 # 学習関連
 ## 学習中
